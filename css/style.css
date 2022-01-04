@@ -1,0 +1,38 @@
+/*************************TAG SELECTORS**************************/
+
+h1{
+  color:pink;
+}
+/*
+img{
+  background-color: red;
+}
+*/
+
+/***************************CLASS SELECTORS***********************/
+.k{
+  background-color: green;
+}
+.o{
+  background-color: red;
+}
+.ice{
+   background-color: green;
+}
+.broccoli{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%
+}
+/***************************ID SELECTORS***********************/
+#heading{
+  color:red;
+}
+/*******************PSEUDO CLASS*************************/
+img:hover{
+  background-color: gold;
+}
+h1:hover{
+  background-color: purple;
+}
